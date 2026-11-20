@@ -1,129 +1,24 @@
-/* #box1,#box2,#box3,#box4{
-  z-index: 1000;
-margin: 10px;
-height: 100px;
-width: 100px;
-display: inline-block;
-border: 1px solid black;
-}
-#box1{background-color: red;
-position: sticky;
-top: 100px;
-}
-#box2{background-color: blue;
-  position: sticky;
-}
-#box3{background-color: green;
-position: sticky;}
-#box4{background-color: yellow;
-position: sticky;}
-#navbar{
-    z-index: -1000;
-position: fixed;
-top: 0;
-left: 0;
-right: 0;
-height: 50px;
-background-color: gray;
-} */
-/* #box1,#box2,#box3,#box4,#box5{
-height: 100px;
-width: 100px;
-border: 1px solid black;
-display: inline-block;
-display: flex;
-height: 30px;
-flex-shrink:1;
+a{color: black;
+  text-decoration: none;
+margin-right: 10px;
+margin-left: 10px;}
 
 
-}
+.NAVBAR{
+PADDING-TOP: 15PX;
 
-#box1{
-BACKGROUND-COLOR: RED; }
-
-#box2{
-BACKGROUND-COLOR: BLUE;
-
- }
-#box3{
-BACKGROUND-COLOR: GREEN;
-
- }
-
- #box4{
-BACKGROUND-COLOR: YELLOW;
-
- }
-
- #box5{
-BACKGROUND-COLOR: PURPLE;
-}
+display:inline-block;
+  display: flex;
+  JUSTIFY-CONTENT: SPACE-arround;
+  FLEX-DIRECTION: ROW;
+  JUSTIFY-CONTENT: CENTER;
 
 
- #NAVBAR{
-WIDTH: 100%;
-HEIGHT: 50px;
 BORDER: 1PX SOLID BLACK;
-z-index: 1000;
-POSITION: FIXED;
-TOP: 00px;
-RIGHT: 00;
-LEFT: 00PX;
-display:flex;
-flex-direction: row;
-justify-content:center;
-justify-content:space-evenly;
-padding:25px 0px 10px 0px;
-
- } */
-
-#box1,#box2,#box3,#box4,#box5{
-height: 100px;
-width: 100px;
-border: 1px solid black;
-display: inline-block;
-display: flex;
-height: 30px;
-flex-shrink:1;
-
-
-}
-
-#box1{
-BACKGROUND-COLOR: RED; }
-
-#box2{
-BACKGROUND-COLOR: BLUE;
-
-}
-#box3{
-BACKGROUND-COLOR: GREEN;
-
-}
-
-#box4{
-BACKGROUND-COLOR: rgb(200, 105, 88);
-
-}
-
-#box5{
-BACKGROUND-COLOR: rgb(214, 194, 13);
-}
-
-
-#NAVBAR{
 WIDTH: 100%;
-HEIGHT: 50px;
-BORDER: 1PX SOLID BLACK;
-z-index: 1000;
-POSITION: FIXED;
-TOP: 00px;
-RIGHT: 00;
-LEFT: 00PX;
-display:flex;
-flex-direction: row;
-justify-content:center;
-justify-content:space-evenly;
-padding:25px 0px 10px 0px;
+BACKGROUND-COLOR: #ab3434;
+HEIGHT: 30PX;
+BORDER-RADIUS: 7PX;
 
 }
+
