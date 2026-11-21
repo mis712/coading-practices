@@ -101,4 +101,5 @@ TRANSITION-DELAY: 0.5S; */
 TRANSITION: ALL 1S EASE-OUT 0.5S;
 COLOR: rgb(219, 66, 66);
 FONT-WEIGHT: BOLD;
+background-color: rgb(0, 0, 0);
 }
