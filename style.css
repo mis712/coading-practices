@@ -1,0 +1,120 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  min-height: 100vh;
+  margin: 0;
+  padding: 1px 24px 24px;
+  background:
+    radial-gradient(ellipse at 18% 28%, rgba(255, 209, 102, 0.22), transparent 34%),
+    radial-gradient(ellipse at 82% 72%, rgba(111, 66, 193, 0.16), transparent 38%),
+    #f7f8ff;
+  color: #172554;
+  font-family: Inter, "Segoe UI", sans-serif;
+}
+
+.NAVBAR {
+  width: min(100%, 1120px);
+  margin: 20px auto 0;
+  padding: 10px 20px;
+  border: 1px solid rgba(255, 255, 255, 0.45);
+  border-radius: 16px;
+  background: linear-gradient(110deg, #155eef, #6938ef 60%, #9b42dc);
+  box-shadow: 0 10px 28px rgba(62, 70, 180, 0.2);
+}
+
+.NAVBAR nav {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.NAVBAR a {
+  padding: 9px 13px;
+  border-radius: 10px;
+  color: #fff;
+  font-size: 0.82rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-decoration: none;
+  transition: background-color 180ms ease, transform 180ms ease;
+}
+
+.NAVBAR a:hover,
+.NAVBAR a:focus-visible {
+  transform: translateY(-2px);
+  background-color: rgba(255, 255, 255, 0.2);
+  outline: none;
+}
+
+.MAIN {
+  display: grid;
+  min-height: calc(100vh - 100px);
+  place-items: center;
+  text-align: center;
+}
+
+.MAIN h1 {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+  margin: 0;
+  font-size: clamp(3rem, 11vw, 9rem);
+  font-weight: 800;
+  letter-spacing: -0.07em;
+  line-height: 1.06;
+}
+
+#MAKESOMETHING {
+  display: flex;
+  justify-content: center;
+  gap: 0.24em;
+  white-space: nowrap;
+}
+
+#MAKE,
+#SOMETHING {
+  color: #172554;
+}
+
+#COOLORFUL {
+  display: flex;
+  justify-content: center;
+}
+
+#COOLORFUL span:nth-child(1) { color: #ef476f; }
+#COOLORFUL span:nth-child(2) { color: #f78c6b; }
+#COOLORFUL span:nth-child(3) { color: #f4b942; }
+#COOLORFUL span:nth-child(4) { color: #06a77d; }
+#COOLORFUL span:nth-child(5) { color: #06a6d9; }
+#COOLORFUL span:nth-child(6) { color: #4361ee; }
+#COOLORFUL span:nth-child(7) { color: #7353ba; }
+#COOLORFUL span:nth-child(8) { color: #bb4dca; }
+#COOLORFUL span:nth-child(9) { color: #e64980; }
+#COOLORFUL span:nth-child(10) { color: #ef476f; }
+
+@media (max-width: 480px) {
+  body {
+    padding-right: 14px;
+    padding-left: 14px;
+  }
+
+  .NAVBAR {
+    padding: 8px;
+  }
+
+  .NAVBAR nav {
+    gap: 2px;
+  }
+
+  .NAVBAR a {
+    padding: 8px;
+    font-size: 0.72rem;
+  }
+
+  .MAIN h1 {
+    font-size: clamp(2.6rem, 12vw, 3.8rem);
+  }
+}
