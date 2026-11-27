@@ -174,7 +174,7 @@ animation-direction: alternate-reverse;
 animation-name:WINDOW;
 animation-duration: 1s;
 animation-timing-function:ease-in-out;
-animation-delay: 0.050s;
+animation-delay: 50s;
 animation-iteration-count: infinite;
 animation-direction: alternate-reverse;
 }
