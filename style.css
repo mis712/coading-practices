@@ -141,10 +141,10 @@ HEIGHT: 100%;
 WIDTH: 50%;
 Z-INDEX: 1000;
 BORDER-RADIUS: 3%;
-margin-top: 1px;
+/* margin-top: 1px;
 margin-bottom: 1px;
 margin-right: 1px;
-margin-left: 1px;
+margin-left: 1px; */
 }
 
 #LOADING-0{
