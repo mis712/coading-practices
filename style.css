@@ -180,6 +180,6 @@ animation-direction: alternate-reverse;
 }
 
 #l4{
-     animation:window 1500ms ease-in-out 500ms infinite alternate-reverse;
+     animation:WINDOW 1500ms ease-in-out 500ms infinite alternate-reverse;
 }
 
