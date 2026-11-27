@@ -155,6 +155,6 @@ TO { background-color: rgb(242, 8, 8); };
 animation-name:WINDOW;
 animation-duration: 2s;
 animation-timing-function:linear ;
-animation-delay: 0.01s;
+/* animation-delay: 0.01s; */
 animation-iteration-count: infinite;
 }
