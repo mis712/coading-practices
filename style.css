@@ -152,7 +152,7 @@ TO { background-color: rgb(8, 152, 242); };
 }
 
 #l1{
-animation:WINDOW 800ms linear 1200ms infinite normal;
+animation:WINDOW 800ms ease-in-out 1200ms infinite alternate-reverse;
 }
 
 
