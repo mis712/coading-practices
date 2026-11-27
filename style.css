@@ -151,7 +151,7 @@ TO { background-color: rgb(242, 8, 8); };
 
 }
 
-#l1,#l2,#l3,#l4{
+#l1{
 animation-name:WINDOW;
 animation-duration: 1s;
 animation-timing-function:ease-in-out;
