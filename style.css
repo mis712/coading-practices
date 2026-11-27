@@ -145,7 +145,7 @@ margin-top: 1px;
 margin-bottom: 1px;
 margin-right: 1px;
 margin-left: 1px;
-
+justify-content: space-between;
 }
 
 #LOADING-0{
@@ -168,6 +168,6 @@ padding-top: 1px;
 padding-bottom: 1px;
 padding-left: 1px;
 padding-right: 1px;
-justify-content: space-between;
+
 
 }
