@@ -126,7 +126,11 @@ MARGIN-LEFT: 15PX;
 MARGIN-TOP: 15PX;
 /* DISPLAY:FLEX; */
 /* JUSTIFY-CONTENT: ROW; */
-padding-top: 1PX;
+padding-top: 1px;
+padding-bottom: 1px;
+padding-left: 1px;
+padding-right: 1px;
+
 }
 
 #LOADING-1,#LOADING-2,#LOADING-3,#LOADING-4{
