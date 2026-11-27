@@ -120,6 +120,6 @@ padding: 15PX 15PX 15PX 15PX;
   height: 100px;
   width: 100px;
 DISPLAY:GRID;
-grid-template-columns: 50PX 50px;
+grid-template-columns: 50px 50px;
 
 }
