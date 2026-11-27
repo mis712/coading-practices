@@ -151,6 +151,10 @@ margin-left: 1px;
 HEIGHT: 50%;
 WIDTH: 80PX;
 DISPLAY: FLEX;
+padding-top: 1px;
+padding-bottom: 1px;
+padding-left: 1px;
+padding-right: 1px;
 
 }
 #LOADING-01{
