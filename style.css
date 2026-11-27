@@ -120,7 +120,7 @@ padding: 15PX 15PX 15PX 15PX;
   height: 100px;
   width: 100px;
 border-radius: 3%;
-border-style: solid;
+border-style: solid 10px ;
 DISPLAY:GRID;
 grid-template-columns: 50px 50px;
 grid-template-rows: 50px 50px;
