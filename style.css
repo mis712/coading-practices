@@ -140,5 +140,6 @@ font-size: 10PX; */
 color: rgb(224, 13, 13);
 z-index: 1000;
 background-color: blueviolet;
+border-radius: 3%;  
 }
 
