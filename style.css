@@ -153,7 +153,7 @@ TO { background-color: rgb(242, 8, 8); };
 
 #l1,#l2,#l3,#l4{
 animation-name:WINDOW;
-animation-duration: 0.1s;
+animation-duration: 1s;
 animation-timing-function:linear ;
 /* animation-delay: 0.01s; */
 animation-iteration-count: infinite;
