@@ -142,6 +142,15 @@ z-index: 1000;
 background-color: rgb(249, 249, 249);
 border-radius: 3%;
 margin: 1px 1px 1px 1px;  
+
+animation-name: WINDOW ;
+animation-duration: 1s;
+animation-timing-function:ease-in-out ;
+animation-delay: 1s;
+animation-iteration-count: (5);
+
+
+
 }
 
 @keyframes WINDOW{
@@ -149,3 +158,4 @@ FROM { background-color: rgb(249, 249, 249); };
 TO { background-color: rgb(22, 147, 141); };
 
 }
+
