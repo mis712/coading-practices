@@ -151,7 +151,7 @@ TO { background-color: rgb(22, 147, 141); };
 
 }
 
-#l1,#l2,#l3,#l4:hover{
+.LOADINGBOX:hover{
 animation-name:WINDOW;
 animation-duration: 5s;
 animation-timing-function:ease-in-out ;
