@@ -124,7 +124,7 @@ border:1px solid black;
 DISPLAY:GRID;
 grid-template-columns: 50px 50px;
 grid-template-rows: 50px 50px;
-padding: 2PX 2PX 1PX 1PX ;
+padding: 2PX 2PX 2PX 2PX ;
 color: rgb(1, 1, 1);
 font-size: 10PX;
 
