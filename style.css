@@ -170,7 +170,7 @@ animation-iteration-count: infinite;
 animation-direction: alternate-reverse;
 }
 
-#l1{
+#l3{
 animation-name:WINDOW;
 animation-duration: 1s;
 animation-timing-function:ease-in-out;
@@ -179,7 +179,7 @@ animation-iteration-count: infinite;
 animation-direction: alternate-reverse;
 }
 
-#l1{
+#l4{
 animation-name:WINDOW;
 animation-duration: 1s;
 animation-timing-function:ease-in-out;
