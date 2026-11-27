@@ -168,6 +168,8 @@ animation-timing-function:ease-in-out;
 animation-delay: 1500ms;
 animation-iteration-count: infinite;
 animation-direction: alternate-reverse;
+
+animation:WINDOW 500ms ease-in-out 1500ms infinite normal;
 }
 
 #l3{
