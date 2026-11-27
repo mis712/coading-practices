@@ -125,5 +125,6 @@ DISPLAY:GRID;
 grid-template-columns: 50px 50px;
 grid-template-rows: 50px 50px;
 padding: 1PX 1PX 1PX 1PX ;
+GRID:COLOR:BLACK;
 }
 
