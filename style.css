@@ -172,7 +172,7 @@ animation-direction: alternate-reverse;
 
 #l3{
 animation-name:WINDOW;
-animation-duration: 1s;
+animation-duration: 0.7s;
 animation-timing-function:ease-in-out;
 animation-delay: 0.3s;
 animation-iteration-count: infinite;
