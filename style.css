@@ -138,6 +138,6 @@ font-size: 1PX;
 
 #L1,#L2,#L3,#L4{
 color: rgb(224, 13, 13);
-
+z-index: 1000;
 }
 
