@@ -119,7 +119,7 @@ padding: 15PX 15PX 15PX 15PX;
   background-color: rgb(211, 92, 92);
   height: 100px;
   width: 100px;
-
+border-radius: 3%;
 DISPLAY:GRID;
 grid-template-columns: 50px 50px;
 grid-template-rows: 50px 50px;
