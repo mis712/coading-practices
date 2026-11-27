@@ -163,7 +163,7 @@ animation-direction: alternate-reverse;
 
 #l2{
 animation-name:WINDOW;
-animation-duration: 2000ms;
+animation-duration: 500ms;
 animation-timing-function:ease-in-out;
 animation-delay: 1500ms;
 animation-iteration-count: infinite;
