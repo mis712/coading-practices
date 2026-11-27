@@ -155,7 +155,7 @@ TO { background-color: rgb(242, 8, 8); };
 animation-name:WINDOW;
 animation-duration: 2000ms;
 animation-timing-function:ease-in-out;
-animation-delay: 1800ms;
+animation-delay: 1200ms;
 animation-iteration-count: infinite;
 animation-direction: alternate-reverse;
 }
@@ -181,7 +181,7 @@ animation-direction: alternate-reverse;
 
 #l4{
 animation-name:WINDOW;
-animation-duration: 1000ms;
+animation-duration: 2000ms;
 animation-timing-function:ease-in-out;
 animation-delay: 500ms;
 animation-iteration-count: infinite;
