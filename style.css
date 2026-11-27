@@ -146,9 +146,8 @@ margin: 1px 1px 1px 1px;
 }
 
 @keyframes WINDOW{
-  0%,35%{ background-color: rgb(11, 201, 244); };
-
-50%,100%{ background-color: rgb(242, 8, 8); };
+FROM { background-color: rgb(11, 201, 244); };
+TO { background-color: rgb(242, 8, 8); };
 
 }
 
