@@ -116,6 +116,9 @@ padding: 15PX 15PX 15PX 15PX;
 
 }
 #LOADINGBOX{
+  background-color: black;
+  height: 100px;
+  width: 100px;
 DISPLAY:GRID;
 
 
