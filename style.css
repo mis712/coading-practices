@@ -157,14 +157,14 @@ animation:WINDOW 800ms ease-in-out 1200ms infinite alternate-reverse;
 
 
 #l2{
-animation:WINDOW 500ms ease-in-out 1500ms infinite normal;
+animation:WINDOW 500ms ease-in-out 1500ms infinite alternate-reverse;
 }
 
 #l3{
-animation:WINDOW 1000ms ease-in-out 1000ms infinite normal;
+animation:WINDOW 1000ms ease-in-out 1000ms infinite alternate-reverse;
 }
 
 #l4{
-     animation:WINDOW 1500ms ease-in-out 500ms infinite normal;
+     animation:WINDOW 1500ms ease-in-out 500ms infinite alternate-reverse;
 }
 
