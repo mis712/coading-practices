@@ -159,3 +159,31 @@ animation-delay: 0.01s;
 animation-iteration-count: infinite;
 animation-direction: alternate-reverse;
 }
+
+
+#l2{
+animation-name:WINDOW;
+animation-duration: 1s;
+animation-timing-function:ease-in-out;
+animation-delay: 0.01s;
+animation-iteration-count: infinite;
+animation-direction: alternate-reverse;
+}
+
+#l1{
+animation-name:WINDOW;
+animation-duration: 1s;
+animation-timing-function:ease-in-out;
+animation-delay: 0.01s;
+animation-iteration-count: infinite;
+animation-direction: alternate-reverse;
+}
+
+#l1{
+animation-name:WINDOW;
+animation-duration: 1s;
+animation-timing-function:ease-in-out;
+animation-delay: 0.01s;
+animation-iteration-count: infinite;
+animation-direction: alternate-reverse;
+}
