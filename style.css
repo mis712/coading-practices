@@ -120,10 +120,8 @@ padding: 15PX 15PX 15PX 15PX;
   height: 100px;
   width: 100px;
 
-
-}
-
-.LOADINGBOX{
-  DISPLAY:GRID;
+DISPLAY:GRID;
 grid-template-columns: 50px 50px;
+
 }
+
