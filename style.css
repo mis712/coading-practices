@@ -181,7 +181,7 @@ animation-direction: alternate-reverse;
 
 #l4{
 animation-name:WINDOW;
-animation-duration: 2000ms;
+animation-duration: 1500ms;
 animation-timing-function:ease-in-out;
 animation-delay: 500ms;
 animation-iteration-count: infinite;
