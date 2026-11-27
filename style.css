@@ -115,7 +115,7 @@ BORDER-RADIUS: 35PX;
 padding: 15PX 15PX 15PX 15PX;
 
 }
-#LOADINGBOX{
+.LOADINGBOX{
   background-color: rgb(211, 92, 92);
   height: 100px;
   width: 100px;
